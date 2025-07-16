@@ -1,0 +1,23 @@
+{
+  "name": "discordjsdemo",
+  "version": "1.0.0",
+  "description": "Intended to create a demo exercise for in class presentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pipetr/DiscordJsDemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pipetr/DiscordJsDemo/issues"
+  },
+  "homepage": "https://github.com/Pipetr/DiscordJsDemo#readme",
+  "dependencies": {
+    "discord.js": "^14.21.0"
+  }
+}
