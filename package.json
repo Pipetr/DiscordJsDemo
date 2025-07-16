@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Pipetr/DiscordJsDemo#readme",
   "dependencies": {
     "discord.js": "^14.21.0",
-    "dotenv": "^17.2.0"
+    "dotenv": "^17.2.0",
+    "one-liner-joke": "^1.2.2"
   }
 }
