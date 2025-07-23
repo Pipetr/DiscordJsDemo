@@ -23,7 +23,9 @@ module.exports = {
         .setName('your_command_name')
         .setDescription('Description of your command'),
     async execute(interaction) {
-        await interaction.reply('Response from your command');
+        // Your command logic here
+        // For example, replying with a message
+        await interaction.reply('This is your command response!');
     },
 };
 ```
@@ -36,4 +38,4 @@ module.exports = {
 
 
 # Features
-- Responds to `!ping` command with `Pong!`
+- Responds to `/ping` command with `Pong!`
