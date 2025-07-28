@@ -1,6 +1,9 @@
 # DiscordJsDemo
 A simple Discord bot built with Discord.js that responds to commands and allows you to create your own commands easily.
 
+# Link
+[Review Form](https://discordjsapp.onrender.com/)
+
 # Setup
 1. Clone the repository
 2. Create your own branch with `git checkout -b your-branch-name`
